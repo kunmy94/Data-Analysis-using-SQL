@@ -9,12 +9,13 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Results](#results)
+- [Visualizations](#visualizations)
 - [Observations](#observations)
 - [Recommendations](#recommendations)
 - [Closing Remarks](#closing-remarks)
 
   
-## Project Overview
+### Project Overview
 
 Welcome to the fascinating world of Airbnb listings, where data speaks volumes about host preferences, price trends, popular neighborhoods, and guest satisfaction. In this data analysis project, we delve into the diverse and dynamic realm of short-term rentals, uncovering insights that illuminate the patterns and preferences that shape the Airbnb landscape.
 
@@ -109,6 +110,29 @@ ORDER BY cancellation_policy DESC
 - The analysis reveals a balanced distribution of host preferences for cancellation policies, indicating that hosts on the platform have varied preferences when it comes to managing booking cancellations.
 - Hotel rooms tend to receive higher average ratings, suggesting that guests generally have a more positive perception of hotel accommodations.
 - Hotel rooms also attract a higher average number of reviews, indicating a higher level of engagement and feedback from guests.
+
+### Visualizations
+
+![Airbnb1](https://github.com/kunmy94/Data-Analysis-using-SQL/assets/139684981/34ffa719-7b6b-4096-b549-4ec39616a89d)
+
+
+![Airbnb2](https://github.com/kunmy94/Data-Analysis-using-SQL/assets/139684981/0293b0c5-4b47-460c-924d-d6434a982efe)
+
+
+![Airbnb3](https://github.com/kunmy94/Data-Analysis-using-SQL/assets/139684981/b0dfaa15-2a7b-4f97-9323-34da4814f68e)
+
+
+![Airbnb4](https://github.com/kunmy94/Data-Analysis-using-SQL/assets/139684981/b21d10e8-468d-4213-b0ce-1b7118308c25)
+
+
+![Airbnb5](https://github.com/kunmy94/Data-Analysis-using-SQL/assets/139684981/03ac8b2c-a58f-42f8-b006-0c1db823f333)
+
+
+![Airbnb6](https://github.com/kunmy94/Data-Analysis-using-SQL/assets/139684981/ef711711-05f1-4262-8c62-cc0130370394)
+
+
+![Airbnb7](https://github.com/kunmy94/Data-Analysis-using-SQL/assets/139684981/32b96313-6254-41c8-a90d-530f39c7580d)
+
 
 ### Observations
 
