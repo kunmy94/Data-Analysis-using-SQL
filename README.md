@@ -17,7 +17,7 @@
   
 ### Project Overview
 
-Welcome to the fascinating world of Airbnb listings, where data speaks volumes about host preferences, price trends, popular neighborhoods, and guest satisfaction. In this data analysis project, we delve into the diverse and dynamic realm of short-term rentals, uncovering insights that illuminate the patterns and preferences that shape the Airbnb landscape.
+Welcome to the fascinating world of Airbnb listings, where data speaks volumes about host preferences, price trends, popular neighborhoods, and guest satisfaction. In this data analysis project, i delve into the diverse and dynamic realm of short-term rentals, uncovering insights that illuminate the patterns and preferences that shape the Airbnb landscape.
 
 ### Data Sources
 
